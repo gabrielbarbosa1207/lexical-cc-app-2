@@ -36,3 +36,4 @@ npm-debug.log*
 .idea/**/shelf
 
 .idea
+.vercel
